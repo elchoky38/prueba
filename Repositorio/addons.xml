@@ -2,7 +2,7 @@
 <addons>
 <addon id="repository.prueba" name="[COLOR orange]prueba[/COLOR] Repo" version="1.0.0" provider-name="prueba">
     <extension point="xbmc.addon.repository" name="prueba ">
-        <info>https://raw.githubusercontent.com/elchoky38/prueba/master/Repositorio/addons.xml</info>
+<info compressed="false">https://raw.githubusercontent.com/elchoky38/prueba/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/elchoky38/prueba/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/elchoky38/prueba/master/Repositorio/</datadir>
     </extension>
